@@ -1,0 +1,5 @@
+number_user = float(input())
+
+factory = number_user - int(number_user)
+digit = int(factory * 10)
+print(digit)
